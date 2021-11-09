@@ -1,0 +1,19 @@
+.navbar-brand{
+    font-family: 'Metal Mania', cursive;
+}
+.btn:focus{
+    box-shadow: none;
+    outline:none;
+}
+
+
+.banner{
+    background-image: url('../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+}
+
+.foot{
+    font-family: 'Metal Mania', cursive;
+}
